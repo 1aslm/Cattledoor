@@ -1,0 +1,17 @@
+.navbg{
+    background-color: #D4EBF8;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+.navlogoimg{
+    height: 50px;
+    width: 67px;
+}
+.navttl{
+    height: 55px;
+    width: 120px;
+}
+.navmore{
+    background-color: #c1e3f7;
+}
